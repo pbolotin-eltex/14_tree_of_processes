@@ -8,7 +8,7 @@
  *   /      /   \
  * p       p      p
  * 
- * And need to output their ppids and pids to view ierarhy.
+ * And need to output their ppids and pids to view hierarchy.
 ```
 ## usage
 
@@ -20,4 +20,4 @@ you will see ppid, pid of each process with comment
 
 also there will be the waitpid results
 
-it defines hierahy of processes and show who is who
+it defines hierarchy of processes and show who is who

@@ -6,7 +6,7 @@
  *   /      /   \
  * p       p      p
  * 
- * And need to output their ppids and pids to view ierarhy.
+ * And need to output their ppids and pids to view hierarchy.
  **********************************************************************/
 
 #include <sys/types.h>
